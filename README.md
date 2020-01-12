@@ -5,7 +5,8 @@ github：
 首先矢量图网站：
 [https://www.iconfont.cn/](https://www.iconfont.cn/)  
 里面提供了丰富的矢量图标，供开发者使用  
-
+效果：  
+![](https://upload-images.jianshu.io/upload_images/19741117-20418b8a630224c1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
 ![矢量图库](https://upload-images.jianshu.io/upload_images/19741117-ef37e2db3dab612f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
 ### 下载图标 + 导入到Android Studio
 ![图标](https://upload-images.jianshu.io/upload_images/19741117-887d23b8c8c12265.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
